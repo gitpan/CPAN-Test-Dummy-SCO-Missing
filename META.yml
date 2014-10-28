@@ -20,4 +20,4 @@ no_index:
 requires: {}
 resources:
   repository: http://github.com/szabgab/CPAN-Test-Dummy-SCO
-version: '0.35'
+version: '0.37'
